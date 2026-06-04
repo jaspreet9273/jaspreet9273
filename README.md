@@ -2,11 +2,11 @@
 
 Building products, experimenting with ideas, and turning them into software.
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 * Full Stack Developer
 * Interested in AI, SaaS, and Automation
-* Passionate about backend architecture and scalable systems
+* Passionate about building scalable full-stack applications and great user experiences
 * Always building something new
 
 ## 🛠️ Technologies & Tools
@@ -15,7 +15,7 @@ Building products, experimenting with ideas, and turning them into software.
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,tailwind,nodejs,express,python,go,mongodb,postgres,mysql,redis,supabase,firebase,docker,aws,nginx,rabbitmq,kafka,graphql,git,github,linux,vscode,postman" />
 </p>
 
-## 🤖 AI & LLMs
+## 🧠 AI & LLMs
 
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
@@ -28,17 +28,11 @@ Building products, experimenting with ideas, and turning them into software.
   <img src="https://img.shields.io/badge/Embeddings-1E90FF?style=for-the-badge" />
 </p>
 
-
-## 🔥 Current Focus
-
-* Building SaaS products
-* AI-powered applications
-* System Design
-* Developer Tools
-
 ## 🌐 Connect
 
-<p>
+<p align="center">
+  <a href="https://meetjaspreet.netlify.app">Portfolio</a> •
   <a href="https://linkedin.com/in/itsjaspreet">LinkedIn</a> •
-  <a href="https://meetjaspreet.netlify.app">Portfolio</a>
+  <a href="https://github.com/jaspreet9273">GitHub</a> •
+  <a href="mailto:jaspreet9273@gmail.com">Email</a>
 </p>
