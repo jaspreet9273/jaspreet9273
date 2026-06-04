@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Jaspreet 👋
 
-<!--
-**jaspreet9273/jaspreet9273** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building products, experimenting with ideas, and turning them into software.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Full Stack Developer
+* Interested in AI, SaaS, and Automation
+* Passionate about backend architecture and scalable systems
+* Always building something new
+
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,go,mongodb,postgres,redis,docker,aws,git,github,vscode,linux" />
+</p>
+
+## 🔥 Current Focus
+
+* Building SaaS products
+* AI-powered applications
+* System Design
+* Developer Tools
+
+## 🌐 Connect
+
+<p>
+  <a href="https://linkedin.com/in/itsjaspreet">LinkedIn</a> •
+  <a href="https://meetjaspreet.netlify.app">Portfolio</a>
+</p>
