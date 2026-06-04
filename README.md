@@ -12,7 +12,7 @@ Building products, experimenting with ideas, and turning them into software.
 ## 🛠️ Technologies & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,go,mongodb,postgres,redis,docker,aws,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,tailwind,nodejs,express,python,go,mongodb,postgres,mysql,redis,supabase,firebase,docker,aws,nginx,rabbitmq,kafka,graphql,git,github,linux,vscode,postman" />
 </p>
 
 ## 🔥 Current Focus
