@@ -32,7 +32,7 @@ Building products, experimenting with ideas, and turning them into software.
 
 <p align="center">
   <a href="https://meetjaspreet.netlify.app">Portfolio</a> •
-  <a href="https://linkedin.com/in/itsjaspreet">LinkedIn</a> •
+  <a href="https://linkedin.com/in/jaspreet9273">LinkedIn</a> •
   <a href="https://github.com/jaspreet9273">GitHub</a> •
   <a href="mailto:jaspreet9273@gmail.com">Email</a>
 </p>
