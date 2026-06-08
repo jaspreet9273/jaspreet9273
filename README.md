@@ -5,8 +5,6 @@ Building products, experimenting with ideas, and turning them into software.
 ## 👨‍💻 About Me
 
 * Full Stack Developer
-* Interested in AI, SaaS, and Automation
-* Passionate about building scalable full-stack applications and great user experiences
 * Always building something new
 
 ## 🛠️ Technologies & Tools
