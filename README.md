@@ -25,12 +25,3 @@ Building products, experimenting with ideas, and turning them into software.
   <img src="https://img.shields.io/badge/Prompt_Engineering-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Embeddings-1E90FF?style=for-the-badge" />
 </p>
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://meetjaspreet.netlify.app">Portfolio</a> •
-  <a href="https://linkedin.com/in/jaspreet9273">LinkedIn</a> •
-  <a href="https://github.com/jaspreet9273">GitHub</a> •
-  <a href="mailto:jaspreet9273@gmail.com">Email</a>
-</p>
